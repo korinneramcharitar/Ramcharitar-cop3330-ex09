@@ -1,3 +1,8 @@
+
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Korinne Ramcharitar
+ */
 package base;
 
 //Sometimes you have to round up to the next number rather than follow standard rounding rules.
